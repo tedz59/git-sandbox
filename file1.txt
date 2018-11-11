@@ -1,4 +1,4 @@
 ligne de code 1
-ligne de code 2 modifié
+ligne de code 2 modifié 2
 nouvelle ligne 1
 ligne de code 3
